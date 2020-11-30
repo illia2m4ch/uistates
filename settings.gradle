@@ -1,0 +1,3 @@
+include ':uistates'
+include ':app'
+rootProject.name = "UIStates"
